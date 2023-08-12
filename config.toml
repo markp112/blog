@@ -50,3 +50,11 @@ description = "A site for technical documentation"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
+
+
+[params.sidebar]
+enable = true
+gravatarEmail = ""
+# Overwritten by your gravatar image if `gravatarEmail` is filled
+avatar = "img/home-bg.jpg"
+bio = "a personal website"
