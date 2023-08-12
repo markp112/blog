@@ -10,7 +10,7 @@ published: true
 image:       ""
 tags:        
   - Git
-categories:  ["Tech", "Git" ]
+categories:  []
 ---
 
 ## Rename branch Master to Main 
