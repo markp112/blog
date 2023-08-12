@@ -1,6 +1,0 @@
-------
-title: Code Horizon
-
-------
-
-content
