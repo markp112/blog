@@ -5,11 +5,12 @@ subtitle:    ""
 description: "Various Commands and Troubleshooting resolutions"
 date:        2023-08-10
 author:      "Mark Phillips"
-URL: "/2023/08/10/git-commands/"
+URL: "/2023/08/12/Openshift-on-podman/"
+image: "/img/tree-in-snow.jpg"
 published: true
 image:       ""
 tags:        
-  - Git
+  - OpenShift
 categories:  []
 ---
 
