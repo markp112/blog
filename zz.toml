@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 theme="puppet"
 
-copyright = "(c) Mark Phillips 2023"
+copyright = "copyright &#169; Mark Phillips 2023"
 paginate = 3
 defaultContentLanguage = "en"
 
@@ -45,7 +45,7 @@ url = "/techdocs/"
 weight = 10
 
 [params]
-author = "Puppet"
+author = "Mark Phillips"
 description = "A site for technical documentation"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
@@ -58,3 +58,6 @@ gravatarEmail = ""
 # Overwritten by your gravatar image if `gravatarEmail` is filled
 avatar = "img/home-bg.jpg"
 bio = "a personal website"
+
+[theme]
+antinav= "#ff0309"
